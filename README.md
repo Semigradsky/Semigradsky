@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=semigradsky&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+</p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=semigradsky.semigradsky)
+
 <!--
 **Semigradsky/Semigradsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
